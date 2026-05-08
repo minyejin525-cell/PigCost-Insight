@@ -142,6 +142,6 @@ def main():
 
     print("=== 시장 데이터 업데이트 종료 ===")
 
-
+# force redeploy
 if __name__ == "__main__":
     main()

@@ -1055,5 +1055,6 @@ with tab4:
         st.markdown("### 해상운임")
         st.dataframe(freight_df[["date_label", "price"]].tail(20), width="stretch")
 
+# force redeploy
 st.markdown("---")
 st.caption("배합사료 가격·생산량은 농림축산식품부 최근통계자료를 기준으로 정리하는 구조입니다. [Source](https://www.mafra.go.kr/home/5102/subview.do)")
