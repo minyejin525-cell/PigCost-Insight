@@ -24,6 +24,7 @@ st.markdown("""
     padding-right: 2rem;
     max-width: 1500px;
 }
+# force redeploy
 
 .main-title {
     font-size: 2.35rem;
